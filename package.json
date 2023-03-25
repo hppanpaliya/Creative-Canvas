@@ -2,6 +2,7 @@
   "name": "creativecanvas",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hppanpaliya.github.io/Creative-Canvas/",
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
