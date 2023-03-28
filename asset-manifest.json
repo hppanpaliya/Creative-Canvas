@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Creative-Canvas/static/css/main.28f514e8.css",
+    "main.js": "/Creative-Canvas/static/js/main.f52b3118.js",
+    "index.html": "/Creative-Canvas/index.html",
+    "static/media/eraser.svg": "/Creative-Canvas/static/media/eraser.98877d8a5364f91c300edd36dce40cd6.svg",
+    "main.28f514e8.css.map": "/Creative-Canvas/static/css/main.28f514e8.css.map",
+    "main.f52b3118.js.map": "/Creative-Canvas/static/js/main.f52b3118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f514e8.css",
+    "static/js/main.f52b3118.js"
+  ]
+}
