@@ -21,12 +21,12 @@ Follow these steps to get the Memory Match app up and running on your local mach
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hppanpaliya/Memory-Match.git
+   git clone https://github.com/hppanpaliya/Creative-Canvas.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Memory-Match
+   cd Creative-Canvas
    ```
 3. Install the dependencies:
    ```bash
